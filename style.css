@@ -13,7 +13,7 @@
 }
 /**box1**/
 .logo{
-    background-image: url("AMAZON-WEBPAGE-UI-CLONE/images/ama.png");  
+    background-image: url("images/ama.png");  
     height: 50px;
     width: 130px;
     background-size: cover;
@@ -128,7 +128,7 @@ span{
 
 /* Hero_Section */
 .hero-section{
-    background-image: url("AMAZON-WEBPAGE-UI-CLONE/images/background_image.png");
+    background-image: url("images/background_image.png");
     height: 350px;
     background-size: cover;
     display: flex;
@@ -218,7 +218,7 @@ ul a{
     align-items: center;
 }
 .logo-footer{
-    background-image: url("AMAZON-WEBPAGE-UI-CLONE/images/ama.png");
+    background-image: url("images/ama.png");
     background-size: cover;
     height: 50px;
     width: 140px;
