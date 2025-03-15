@@ -1,4 +1,3 @@
-# AMAZON-WEBPAGE-UI-CLONE
 # **WebVista** 🌐
 
 ## 📌 Overview
@@ -37,7 +36,7 @@ WebVista/
    ```
 
 ## 📷 Screenshots
-### Homepage
+
 ![Screenshot 1](images/Screenshot%201.png)
 
 ![Screenshot 2](images/Screenshot%202.png)
